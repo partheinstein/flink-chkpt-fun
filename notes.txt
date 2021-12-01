@@ -1,0 +1,2 @@
+./bin/start-cluster.sh
+./bin/flink run ~/learn/flink/chkpt/app/build/libs/app-0.0.1-all.jar
